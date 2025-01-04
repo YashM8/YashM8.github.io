@@ -17,7 +17,7 @@ Experience
 **[Lux Bio](https://www.luxbio.ca/)**  
 *September 2024 - May 2025*  
 
-Revamped automation systems for bioprocess engineering, eliminating control loop errors and improving system reliability. Engineered robust communication systems to interface with sensors, pumps, motors, and valves while designing an intuitive user interface and implementing cloud-based data backup solutions. Additionally, contributed to SEO efforts using Wix to enhance the company's online presence.
+Revamped automation systems for bioprocess engineering, eliminating control loop errors and improving system reliability by 100%. Engineered robust communication systems to interface with sensors, pumps, motors, and valves while designing an intuitive user interface and implementing cloud-based data backup solutions. Additionally, contributed to SEO efforts using Wix to enhance the company's online presence.
 
 ### Undergraduate Research Assistant 🥼 
 **[UBC Engineering at Frostad Research Group](https://food.chbe.ubc.ca/)**  
